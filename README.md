@@ -9,9 +9,9 @@ This repository contains the code and resources for the research paper: **"A Com
 This project compares the performance of Convolutional Neural Networks (CNNs) and Vision-Language Models (VLMs) for classifying chart images across 25 different chart types commonly used in business and data visualization contexts.
 
 <p align="center">
-  <img src="assets/dataset_composition.png" alt="Dataset composition of chart types" width="800"/>
+  <img src="assets/illustration_of_chart_classes.jpg" alt="Examples of the 25 chart types in our dataset" width="800"/>
   <br>
-  <em>Composition of the 25 chart types in our dataset</em>
+  <em>Examples of the 25 chart types in our dataset</em>
 </p>
 
 ## Repository Structure
@@ -72,8 +72,6 @@ The composition of our dataset, showing the exact breakdown of image sources (we
   <br>
   <em>Detailed composition of the 25 chart types in our dataset</em>
 </p>
-
-As shown in the figure, each chart class contains a total of 1,000 images from various sources. Some chart types have more web-scraped images (e.g., area chart, pie chart), while others rely more heavily on generated images due to the limited availability of high-quality samples on the web.
 
 ### Dataset Organization
 
