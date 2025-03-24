@@ -114,4 +114,15 @@ PaLI-GEMMA-3B-ft-VQAv2-448 specifications:
 
 ## License
 
-This code is provided for research and educational purposes only. PaLI-GEMMA is made available under Google's model license, which you must accept before using the model. Please see the [Hugging Face model page](https://huggingface.co/google/paligemma-3b-ft-vqav2-448) for details.
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). For the full license text, visit: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This license allows you to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- NonCommercial — You may not use the material for commercial purposes
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
+
+This code is intended for research and educational purposes only. PaLI-GEMMA is made available under Google's model license, which you must accept before using the model. Please see the [Hugging Face model page](https://huggingface.co/google/paligemma-3b-ft-vqav2-448) for details.

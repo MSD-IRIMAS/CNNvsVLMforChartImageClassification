@@ -79,7 +79,18 @@ All experiments were conducted on an Azure **NC24ads A100 v4** instance equipped
 
 ## License Information
 
-The code in this directory is provided for research and educational purposes only under the MIT License. However, each Vision-Language Model has its own license:
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). For the full license text, visit: [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+This license allows you to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- NonCommercial — You may not use the material for commercial purposes
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
+
+This code is intended for research and educational purposes only. However, each Vision-Language Model has its own license:
 
 - **ChartLlama-13B**: Based on LLaVA and subject to the same license terms as LLaVA.
 - **LLaVA models**: Governed by the license specified in the [LLaVA repository](https://github.com/haotian-liu/LLaVA).
