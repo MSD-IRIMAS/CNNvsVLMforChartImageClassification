@@ -73,6 +73,8 @@ The composition of our dataset, showing the exact breakdown of image sources (we
   <em>Detailed composition of the 25 chart types in our dataset</em>
 </p>
 
+As shown in the figure, each chart class contains a total of 1,000 images from various sources. Some chart types have more web-scraped images (e.g., area chart, pie chart), while others rely more heavily on generated images due to the limited availability of high-quality samples on the web.
+
 ### Dataset Organization
 
 The final dataset is organized as follows:
