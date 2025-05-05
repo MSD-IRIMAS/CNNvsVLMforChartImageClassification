@@ -186,11 +186,16 @@ This code is intended for research and educational purposes only.
 If you use this code or dataset in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{come2025comparative,
-  title={A Comparative Study of CNNs and Vision-Language Models for Chart Image Classification},
-  author={Côme, Bruno and Devanne, Maxime and Weber, Jonathan and Forestier, Germain},
-  booktitle={Proceedings of the XXth International Conference on Computer Vision Theory and Applications},
-  year={2025},
-  publisher={SCITEPRESS}
+@conference{icaart25,
+author={Bruno Côme and Maxime Devanne and Jonathan Weber and Germain Forestier},
+title={A Comparative Study of CNNs and Vision-Language Models for Chart Image Classification},
+booktitle={Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 2: ICAART},
+year={2025},
+pages={816-827},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0013374500003890},
+isbn={978-989-758-737-5},
+issn={2184-433X},
 }
 ```
